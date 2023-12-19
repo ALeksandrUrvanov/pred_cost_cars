@@ -17,9 +17,6 @@
 - sklearn
 - matplotlib
 - seaborn
-- CatBoostRegressor
-- RandomForestRegressor
-- LGBMRegressor
 
 ## В ходе работы было выполнено:
 1. Загружены данные и проведена предобработка.
